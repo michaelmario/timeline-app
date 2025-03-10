@@ -1,0 +1,44 @@
+{
+    "timelineItems": [
+     {
+     
+         "id":"1",
+          "title": "Naissance du MMM",
+          "date": "septembre 1969",
+          "description": "Naissance du Mouvement Militant Mauricien (MMM). Le MMM est fondé par Paul Bérenger et d'autres militants, avec pour objectif de lutter pour une île Maurice plus juste et socialiste.",
+          "symbol": "happy",
+          "imageUrl": "/images/Mouvement_Militant_Mauricien.png",
+          "category": "politique"
+        },
+        {
+          "id":"2",
+          "title": "Manifestation anti-Alexandra",
+          "date": "12 septembre 1969",
+          "description": "Manifestation anti-Alexandra à Port-Louis. Les militants du MMM protestent contre la visite de la princesse Alexandra, symbole du capitalisme et du conservatisme. La police réprime violemment la manifestation, blessant plusieurs manifestants.",
+          "symbol": "angry",
+          "imageUrl": "/images/antiAlexandra.png",
+          "category": "répression"
+        },
+        {
+          "id":"3",
+          "title": "Agression de Paul Bérenger",
+          "date": "14 septembre 1969",
+          "description": "Paul Bérenger est agressé par des hommes de main d'un parti politique à Port-Louis. Cet événement marque le début de la répression contre le MMM.",
+          "symbol": "sad",
+          "imageUrl": "/images/PaulAgresse.png",
+          "category": "répression"
+        },
+        {
+          "4":"4",
+          "title": "Création de l'exécutif national du MMM",
+          "date": "2 novembre 1969",
+          "description": "Création de l'exécutif national du MMM. Heeralall Bhugaloo est élu président et Paul Bérenger secrétaire.",
+          "symbol": "happy",
+          "imageUrl": "/images/PaulAgresse.png",
+          "category": "politique"
+        }
+      
+    
+]
+}
+    
